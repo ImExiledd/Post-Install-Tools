@@ -16,3 +16,4 @@ C:\Users\Exile\source\repos\Exile's Post Install Tools\obj\Debug\net5.0-windows\
 C:\Users\Exile\source\repos\Exile's Post Install Tools\obj\Debug\net5.0-windows\ref\Exile's Post Install Tools.dll
 C:\Users\Exile\source\repos\Exile's Post Install Tools\obj\Debug\net5.0-windows\Exile's Post Install Tools.pdb
 C:\Users\Exile\source\repos\Exile's Post Install Tools\obj\Debug\net5.0-windows\Exile's Post Install Tools.genruntimeconfig.cache
+C:\Users\Exile\source\repos\Exile's Post Install Tools\obj\Debug\net5.0-windows\Exile_s_Post_Install_Tools.installer.resources
